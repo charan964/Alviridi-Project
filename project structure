@@ -1,0 +1,13 @@
+alviridi-project/
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   └── .env
+└── frontend/
+    ├── public/
+    ├── src/
+    │   ├── components/
+    │   │   └── Dashboard.js
+    │   ├── App.js
+    │   ├── index.js
+    │   └── package.json
